@@ -39,3 +39,31 @@ Chạy tuần tự các scrip sau:
 
 ### Chi Tiết Bài Viết
 ![Chi Tiết Bài Viết.png](Chi%20Ti%E1%BA%BFt%20B%C3%A0i%20Vi%E1%BA%BFt.png)
+
+## Luồng nghiệp vụ
+### Top Menu
+    + Nhấn vào Phim Lẻ, Phim Rạp, Phim Bộ sẽ đưa tới danh sách phim tương ứng.
+    + Nhân vào Bài Viết sẽ tới danh sách bài viết
+    + Nhấn vào đăng nhập sẽ mở hộp thoại đăng nhập
+### Trang chủ
+    + Nhấn vào bất cứ hình cover phim nào sẽ đưa tới trang chi tiết phim của phim đó.
+    + Nhấn vào Xem Thêm của danh sách phim nào sẽ đưa tới dánh sách phim tương ứng (phim lẻ, phim bộ, phim rạp)
+
+### Danh sách phim
+    + Nhấn vào bất cứ hình cover phim nào sẽ ưa tới trang chi tiết phim của phim đó.
+    + Chọn tiêu chí thể loại phim hoặc / và danh sách phim để tìm kiếm
+    + Nhấn vào Xem Thêm của danh sách phim nào sẽ đưa tới dánh sách phim tương ứng (phim lẻ, phim bộ, phim rạp)
+
+### Chi tiết phim
+    + Nhấn vào link thể loại (Hành động, kinh di, ...) sẽ đưa tới danh sách phim có thể loại tương ứng
+    + Nhân vào link tên diễn viên sẽ đưa tới danh sách phim mà diễn viên đó tham gia
+    + Nhấn play phần video player để xem phim
+
+### Danh sách bài viết
+    + tìm kiếm chủ đề bài viết quan tâm
+    + Nhấn vào ô bài viết bất kỳ sẽ đưa tới chi tiết bài viết tương ứng
+
+### Chi tiết bài viết
+    + Nhập nội dung bình luận bài viết và gửi
+    + Xem nội dung bài viết
+    
